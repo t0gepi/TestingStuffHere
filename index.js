@@ -5,3 +5,5 @@ var hello = function hello() {
 };
 
 window.hello = hello;
+
+window.hello();
